@@ -1,0 +1,19 @@
+* { margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    
+}
+.a{ 
+    background-size: cover;
+    background-color: darkblue;
+    background-image: url(./images/illustration-woman-online-desktop.svg);
+
+
+}
+.b {
+    text-transform: uppercase;
+
+}
